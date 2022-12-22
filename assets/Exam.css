@@ -1,0 +1,151 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 1200px;
+    height: 800px;
+    margin: 20%;
+    border: 2px solid grey;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 600px;
+    height: 50px;
+    border: 1px solid grey;
+    border-radius: 25px;
+}
+.leaf{
+    background-color: aquamarine;
+}
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+    text-size-adjust: 80px;
+}
+.links1{
+    display: flex;
+    align-items: center;
+    gap: 120px;
+    list-style: none;
+    border-bottom: 3px solid black;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.Source{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+.main-container2{
+    display: flex;
+    gap:20px;
+    align-items:stretch;
+    margin-top: 20px;
+}
+.left-container{
+    display: flex;
+    width: 75%;
+    height: 300px;
+    background-color:rgb(10, 237, 161);
+}
+.Soot{
+    background-color: rgb(10, 207, 142);
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    justify-content: center;
+}
+.soot{
+    display: flex;
+    align-items: center;
+    width: 75px;
+}
+.this{
+    display: flex;
+}
+
+.left{
+    display: flex1;
+    list-style: georgian;
+    color: aliceblue;
+    font-size: 40px;
+    margin: 20px;
+    width: 50%;
+}
+.right{
+    display: flex1;
+    width: 50%;
+}
+.var{
+    list-style:initial;
+    font-size: 40px;
+}
+.Dis{
+    display: flex;
+    align-items: center;
+    justify-content: last baseline;
+    margin-top: 30px;
+    font-size: xx-large;
+    justify-content: center;
+
+}
+.myImg{
+    display: flex;
+}
+.plante .avatar{
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+     
+}
+.plante{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    align-items: center;
+    padding-bottom: 10px;
+}
+.main-container3{
+    background-color:rgb(8, 242, 164);
+    margin-top: 20px;
+    padding: 20px;
+}
+.allul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 30px;
+}
+.name{
+    justify-content: center;
+}
+.Cookies{
+    display: flex;
+    justify-content: space-around;
+    gap: 60px;
+    align-items: center;
+    border: 3px solid black;
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(13, 237, 162);
+    color: aliceblue;
+    border: 3px solid black;
+}
+
